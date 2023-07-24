@@ -6,15 +6,25 @@ In this project, we aim to see the effects of query order on the teaching abilit
 Please install the following:
 
 APReL
+
 PyBullet
+
 numpy
+
 qiBullet
+
 Gym v0.21.0
+
 pingouin
+
 pandas
+
 scipy
+
 datetime
+
 stable_baselines3
+
 time
 
 
